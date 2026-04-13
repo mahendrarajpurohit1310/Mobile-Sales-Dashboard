@@ -17,4 +17,14 @@ The Mobile Store Wants to create an annual sales report for 2025. So that, the O
 - Find the highest and lowest brand sales?
 - Calculate the percentage of each payment method?
 
-- Dashboard Interaction <a href =
+- Dashboard Interaction <a href="https://github.com/mahendrarajpurohit1310/Mobile-Sales-Dashboard/blob/main/Mobile_phone_dashboard.png">View Dashboard</a>
+
+##Process
+- Verified data for missing values and removed errors/anomalies.
+- Ensured data consistency (data type, format, values cleaned).
+- Transformed data using Power Query where required.
+- Created pivot tables based on required analysis/questions.
+- Applied calculations (SUM, AVERAGE, Percentage).
+- Built charts (bar, column, pie, donut) for visualization.
+- Combined all visuals into one interactive dashboard.
+- Added slicers (Year, Month) to make dashboard dynamic.
