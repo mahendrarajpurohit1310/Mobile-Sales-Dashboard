@@ -30,6 +30,6 @@ The Mobile Store Wants to create an annual sales report for 2025. So that, the O
 - Added slicers (Year, Month) to make dashboard dynamic.
 
 ## Dashboard
-<img width="1920" height="909" alt="Mobile_phone_dashboard" src="https://github.com/user-attachments/assets/42d2b1cd-7706-430a-8957-50b66634b325" />
+<img width="1699" height="933" alt="Mobile_sales_dashboard" src="https://github.com/user-attachments/assets/072294e5-c869-4610-93b1-ed7993126278" />
 
 
