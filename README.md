@@ -19,7 +19,7 @@ The Mobile Store Wants to create an annual sales report for 2025. So that, the O
 
 - Dashboard Interaction <a href="https://github.com/mahendrarajpurohit1310/Mobile-Sales-Dashboard/blob/main/Mobile_phone_dashboard.png">View Dashboard</a>
 
-##Process
+## Process
 - Verified data for missing values and removed errors/anomalies.
 - Ensured data consistency (data type, format, values cleaned).
 - Transformed data using Power Query where required.
@@ -32,7 +32,7 @@ The Mobile Store Wants to create an annual sales report for 2025. So that, the O
 ## Dashboard
 <img width="1699" height="933" alt="Mobile_sales_dashboard" src="https://github.com/user-attachments/assets/072294e5-c869-4610-93b1-ed7993126278" />
 
-##Project Insight
+## Project Insight
 - Total revenue shows overall business performance
 - Some months have higher sales
 - ertain brands perform better than others
