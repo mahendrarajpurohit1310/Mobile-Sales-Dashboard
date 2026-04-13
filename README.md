@@ -16,3 +16,5 @@ The Mobile Store Wants to create an annual sales report for 2025. So that, the O
 - Calculate the total sales for all brands combined?
 - Find the highest and lowest brand sales?
 - Calculate the percentage of each payment method?
+
+- Dashboard Interaction <a href =
