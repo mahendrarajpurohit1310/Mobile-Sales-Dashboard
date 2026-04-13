@@ -28,3 +28,8 @@ The Mobile Store Wants to create an annual sales report for 2025. So that, the O
 - Built charts (bar, column, pie, donut) for visualization.
 - Combined all visuals into one interactive dashboard.
 - Added slicers (Year, Month) to make dashboard dynamic.
+
+## Dashboard
+<img width="1920" height="909" alt="Mobile_phone_dashboard" src="https://github.com/user-attachments/assets/42d2b1cd-7706-430a-8957-50b66634b325" />
+
+
