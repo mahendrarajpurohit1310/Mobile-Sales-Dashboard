@@ -32,4 +32,16 @@ The Mobile Store Wants to create an annual sales report for 2025. So that, the O
 ## Dashboard
 <img width="1699" height="933" alt="Mobile_sales_dashboard" src="https://github.com/user-attachments/assets/072294e5-c869-4610-93b1-ed7993126278" />
 
+##Project Insight
+- Total revenue shows overall business performance
+- Some months have higher sales
+- ertain brands perform better than others
+- Specific colors have higher demand
+- Storage variants are almost equally distributed
+- Online payments are used more than cash
+
+ ## Final Conclusion
+ The dashboard shows that the business performance is stable with good overall revenue. Sales vary across months, with some peak periods and some low-performing months. Certain brands, colors, and storage types contribute more to total sales, indicating customer preferences. Online payments are more commonly used than cash, showing a shift towards digital methods. Overall, focusing on high-performing products and improving strategies during low sales periods can help increase future growth.
+ 
+
 
